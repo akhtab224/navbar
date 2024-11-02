@@ -1,0 +1,70 @@
+*{
+   padding: 0px;
+   margin: 0px;
+   color: white;
+}
+.navbar{
+background-color: #0f1111;
+border: 2px solid black;
+height: 60px;
+border-radius: 10px;
+
+}
+#ab{color: orange;
+   margin-right: 150px;
+   font-size: 25px;
+   text-decoration: none;
+   margin-top: 2px;
+   display: inline-block;
+
+
+}
+  #cd{margin-right: 150px;
+   text-decoration: none;
+   margin-top: 2px;
+   display: inline-block;
+
+  }
+  #ef{margin-right: 150px;
+   text-decoration: none;
+   margin-top: 2px;
+   display: inline-block;}
+  #gh{margin-right: 150px;
+   text-decoration: none;
+   margin-top: 2px;
+   display: inline-block;}
+   button{
+      background-color: orange;
+      color: black;
+   }
+   button:hover{ 
+   background-color: aqua;
+   color: black;
+   
+   font-size: 20px;
+   
+      }
+ 
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
